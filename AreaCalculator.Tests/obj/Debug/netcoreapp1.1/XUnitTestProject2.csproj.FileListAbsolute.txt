@@ -1,0 +1,15 @@
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\XUnitTestProject2.deps.json
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\XUnitTestProject2.runtimeconfig.json
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\XUnitTestProject2.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\XUnitTestProject2.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\XUnitTestProject2.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\obj\Debug\netcoreapp1.1\XUnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\obj\Debug\netcoreapp1.1\XUnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\obj\Debug\netcoreapp1.1\XUnitTestProject2.AssemblyInfo.cs
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\obj\Debug\netcoreapp1.1\XUnitTestProject2.dll
+C:\Users\ysant\source\repos\ConsoleApp1\XUnitTestProject2\obj\Debug\netcoreapp1.1\XUnitTestProject2.pdb
