@@ -1,0 +1,15 @@
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.Tests.deps.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.Tests.runtimeconfig.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.Tests.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.Tests.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.Tests.pdb
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\bin\Debug\netcoreapp1.1\AreaCalculator.pdb
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\obj\Debug\netcoreapp1.1\AreaCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\obj\Debug\netcoreapp1.1\AreaCalculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\obj\Debug\netcoreapp1.1\AreaCalculator.Tests.AssemblyInfo.cs
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\obj\Debug\netcoreapp1.1\AreaCalculator.Tests.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator.Tests\obj\Debug\netcoreapp1.1\AreaCalculator.Tests.pdb

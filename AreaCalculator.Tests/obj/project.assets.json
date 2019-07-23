@@ -8546,13 +8546,14 @@
     },
     "AreaCalculator/1.0.0": {
       "type": "project",
-      "path": "../ConsoleApp1/AreaCalculator.csproj",
-      "msbuildProject": "../ConsoleApp1/AreaCalculator.csproj"
+      "path": "../AreaCalculator/AreaCalculator.csproj",
+      "msbuildProject": "../AreaCalculator/AreaCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
       "AreaCalculator >= 1.0.0",
+      "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\ConsoleApp1\\AreaCalculator.csproj",
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170425-07",
       "Microsoft.NETCore.App >= 1.1.2",
       "xunit >= 2.2.0",
@@ -8568,11 +8569,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\XUnitTestProject2\\AreaCalculator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
       "projectName": "AreaCalculator.Tests",
-      "projectPath": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\XUnitTestProject2\\AreaCalculator.Tests.csproj",
+      "projectPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator.Tests\\AreaCalculator.Tests.csproj",
       "packagesPath": "C:\\Users\\ysant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\XUnitTestProject2\\obj\\",
+      "outputPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysant\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8588,8 +8589,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AreaCalculator.csproj": {
-              "projectPath": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AreaCalculator.csproj"
+            "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\ConsoleApp1\\AreaCalculator.csproj": {
+              "projectPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\ConsoleApp1\\AreaCalculator.csproj"
+            },
+            "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj": {
+              "projectPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj"
             }
           }
         }
@@ -8618,5 +8622,16 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\ysant\\source\\repos\\AreaCalculator\\ConsoleApp1\\AreaCalculator.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\ConsoleApp1\\AreaCalculator.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v1.1"
+      ]
+    }
+  ]
 }

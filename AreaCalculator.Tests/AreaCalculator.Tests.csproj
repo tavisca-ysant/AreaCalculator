@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AreaCalculator\AreaCalculator.csproj" />
     <ProjectReference Include="..\ConsoleApp1\AreaCalculator.csproj" />
   </ItemGroup>
 

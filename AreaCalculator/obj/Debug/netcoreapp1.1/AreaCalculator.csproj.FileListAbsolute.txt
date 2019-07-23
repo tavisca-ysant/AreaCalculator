@@ -1,0 +1,10 @@
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.deps.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.runtimeconfig.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.pdb
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.AssemblyInfo.cs
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\Users\ysant\source\repos\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.pdb

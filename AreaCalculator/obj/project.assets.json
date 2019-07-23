@@ -7046,11 +7046,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AreaCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
       "projectName": "AreaCalculator",
-      "projectPath": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AreaCalculator.csproj",
+      "projectPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
       "packagesPath": "C:\\Users\\ysant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ysant\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\ysant\\source\\repos\\AreaCalculator\\AreaCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ysant\\AppData\\Roaming\\NuGet\\NuGet.Config",

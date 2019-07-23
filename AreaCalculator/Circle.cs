@@ -6,6 +6,7 @@ namespace AreaCalculator
 {
     public class Circle : Shape
     {
+        private static readonly double _pi = 3.14;
         public Circle()
         {
         }
@@ -14,6 +15,6 @@ namespace AreaCalculator
         {
         }
 
-        public override double CalculateArea() => 3.14 * Dimension1 * Dimension1;
+        public override double CalculateArea() => _pi * Dimension1 * Dimension1;
     }
 }
